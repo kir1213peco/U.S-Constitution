@@ -1,0 +1,32 @@
+
+footer{
+    background: rgb(124, 124, 124);
+    margin-top: 50px;
+}
+
+
+body {
+	font-family: sans-serif;
+    text-align: center;
+    background: rgb(90, 90, 90);
+}
+
+.head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+
+.pb {
+    background: rgb(7, 86, 175);
+    color: rgb(255, 52, 52);
+    padding: 10px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    }
